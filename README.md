@@ -1,13 +1,13 @@
 
 
-Here is the explanation of what is included in the Supplementary file:
+Here is the tips to run the code:
 
 
-    1.networks.ipynb is a Python notebook that provides six different networks, including MLP, Convent, LeNet, AlexNet, VGG11, and ResNet-18. You will use this file to learn synthetic dates on the MNIST and CIFAR10 datasets.
+    1.Use Colad to open 'projectb_task1.ipynb'/'projectb_task2.ipynb' which located in task1 and task2 folder
 
-    2.utils.ipynb is a Python notebook that provides utilities such as access to datasets, preprocessing, and data augmentation. You will use this file to learn synthetic dates on the MNIST and CIFAR10 datasets.
+    2. Upload all the files in the folder to the root directory of colab VM
 
-    3. Project_B_FAQs.pdf is a list of frequently asked questions that try to shed light on (almost) all of your questions and concerns that you may have during Project B.
+    
 
 
 
